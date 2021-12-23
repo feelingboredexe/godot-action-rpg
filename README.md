@@ -1,2 +1,2 @@
-# godot-action-rpg
+# fall of yotan
 idiots with sticks
